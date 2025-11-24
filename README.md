@@ -18,6 +18,12 @@ O Client Manager é um sistema interno para gerenciar cadastros de clientes e co
 - JavaScript (em breve)
 - Git & GitHub
 
+## 🎨 Paleta de Cores
+
+- **Primary:** #032349
+- **Secondary:** #0353A4
+- **Background:** Linear gradient
+
 ## 💻 Como Executar
 
 1. Clone o repositório:
